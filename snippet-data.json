@@ -4,6 +4,7 @@
     "food-1-img-link": "https://www.youtube.com/user/GBNP10000",
     "food-1-txt-link": "https://www.youtube.com/user/GBNP10000",
     "food-1-txt": "Follw me on youtube",
-    "food-1-additionalInfo": "<a href=" id="food-1-txt-link" style="color: white; text-decoration: none;"> CHECK OUT THE LINK" </a>
+    "food-1-additionalInfo-link": "https://www.youtube.com/user/GBNP10000",
+    "food-1-additionalInfo": "CHECK OUT THE LINKS"
   }
 }
