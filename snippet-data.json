@@ -1,0 +1,21 @@
+{
+    "food-1": {
+        "food-1-img-src": "https://raw.githubusercontent.com/GBNP5000/CLICKBANK/refs/heads/main/tiger.jpg",
+        "food-1-img-link": "https://www.youtube.com/user/GBNP10000",
+        "food-1-txt-link": "https://www.youtube.com/user/GBNP10000",
+        "food-1-txt": "Follow me on youtube",
+        "food-1-additionalInfo": "CHECK OUT THE LINKS",
+        "food-1-additionalInfo-link": "https://www.youtube.com/user/GBNP10000"
+    }
+}
+{
+    
+    "food-2": {
+        "food-2-img-src": "https://raw.githubusercontent.com/GBNP5000/CLICKBANK/refs/heads/main/tiger.jpg",
+        "food-2-img-link": "https://www.youtube.com/user/GBNP10000",
+        "food-2-txt-link": "https://www.youtube.com/user/GBNP10000",
+        "food-2-txt": "Follow me on youtube",
+        "food-2-additionalInfo": "CHECK OUT THE LINKS",
+        "food-2-additionalInfo-link": "https://www.youtube.com/user/GBNP10000"
+    }
+}
