@@ -1,5 +1,7 @@
 {
     "food-1": {
+        "food-1-img-height":"250",
+        "food-1-img-width":"250",
         "food-1-img-src": "https://raw.githubusercontent.com/GBNP5000/CLICKBANK/refs/heads/main/tiger.jpg",
         "food-1-img-link": "https://www.youtube.com/user/GBNP10000",
         "food-1-txt-link": "https://www.youtube.com/user/GBNP10000",
@@ -8,6 +10,8 @@
         "food-1-additionalInfo-link": "https://www.youtube.com/user/GBNP10000"
     },
     "wood-work-1": {
+        "wood-1-img-height":"250",
+        "wood-1-img-width":"250",
         "wood-work-1-img-src": "https://raw.githubusercontent.com/GBNP5000/CLICKBANK/refs/heads/main/tiger.jpg",
         "wood-work-1-img-link": "https://www.youtube.com/user/GBNP10000",
         "wood-work-1-txt-link": "https://www.youtube.com/user/GBNP10000",
@@ -16,13 +20,13 @@
         "wood-work-1-additionalInfo-link": "https://www.youtube.com/user/GBNP10000"
     },
     "baby-1": {
-      "baby-1-img-height":"250",
-      "baby-1-img-width":"250",
-      "baby-1-img-src": "",
-      "baby-1-img-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY",
-      "baby-1-txt-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY",
-      "baby-1-txt": "Follw me on youtube",
-      "baby-1-additionalInfo": "CHECK OUT THE LINKS",
-      "baby-1-additionalInfo-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY"
+        "baby-1-img-height":"250",
+        "baby-1-img-width":"250",
+        "baby-1-img-src": "",
+        "baby-1-img-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY",
+        "baby-1-txt-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY",
+        "baby-1-txt": "Follw me on youtube",
+        "baby-1-additionalInfo": "CHECK OUT THE LINKS",
+        "baby-1-additionalInfo-link": "https://a9c2c1hhwvcs2w51nj5gt2zz1x.hop.clickbank.net/?cbpage=vidtextnopop&tid=SMRT_FAMILY"
     }
 }
